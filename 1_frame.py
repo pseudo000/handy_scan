@@ -397,4 +397,4 @@ if __name__ == '__main__':
 
 
 
-# pyinstaller -w -F --icon="C:\Users\swwoo\Desktop\handy_csv\SCAN.ico" "C:\Users\swwoo\Desktop\handy_csv\1_frame.py"
+# pyinstaller -w -F --icon=SCAN.ico "C:\Users\swwoo\Desktop\handy_csv\1_frame.py"
